@@ -1,4 +1,4 @@
-# f=Formula24 - Arithmetic Challenge
+# Formula24 - Arithmetic Challenge
 
 ## Overview
 This is a JavaFX-based game where players must form a mathematical expression using four randomly drawn cards to reach 24. The game includes AI-generated hints, shuffle animations, and a simple UI with ads.
